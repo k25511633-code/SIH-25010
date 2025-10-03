@@ -84,7 +84,41 @@ Would you like me to elaborate on any aspect?</h3>
 <ul><li>Detailed explanation of the proposed solution</li>
 <li>How it addresses the problem</li>
 <li>Innovation and uniqueness of the solution</li></
-mind map.png
+┌───────────────────────────────┐
+ │         Input Sources          │
+ │ Farmer Inputs | Weather Data   │
+ │ Market Trends | Soil Health    │
+ │ Satellite / IoT Sensor Data    │
+ └───────────────────────────────┘
+
+ ┌───────────────────────────────┐
+ │       Processing Layer         │
+ │ Data Preprocessing | Database  │
+ │ AI/ML Models | Predictive      │
+ │ Analytics | Decision Engine    │
+ └───────────────────────────────┘
+
+ ┌───────────────────────────────┐
+ │       Application Layer        │
+ │ Mobile App | Web Dashboard     │
+ │ Chatbot (Voice/Text)           │
+ │ Multilingual & Offline Support │
+ └───────────────────────────────┘
+
+ ┌───────────────────────────────┐
+ │       Outputs to Farmers       │
+ │ Crop Advisory | Pest/Disease   │
+ │ Fertilizer & Irrigation Plans  │
+ │ Market Price Updates           │
+ │ Weather Forecast & Alerts      │
+ └───────────────────────────────┘
+
+ ┌───────────────────────────────┐
+ │         Stakeholders           │
+ │ Farmers | Govt Agencies        │
+ │ NGOs | Agri-Tech Startups      │
+ │ Research Institutes            │
+ └───────────────────────────────┘
 ## Technical Approach
 <h3>Here's a technical approach solution for a smart crop advisory system:
 
