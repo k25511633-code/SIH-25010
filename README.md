@@ -83,8 +83,8 @@ This proposed solution leverages technology to empower farmers with data-driven 
 Would you like me to elaborate on any aspect?</h3>
 <ul><li>Detailed explanation of the proposed solution</li>
 <li>How it addresses the problem</li>
-<li>Innovation and uniqueness of the solution</li></ul>
-Screenshot 2025-10-03 141214.png
+<li>Innovation and uniqueness of the solution</li></
+mind map.png
 ## Technical Approach
 <h3>Here's a technical approach solution for a smart crop advisory system:
 
